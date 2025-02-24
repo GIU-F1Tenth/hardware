@@ -16,8 +16,8 @@ This repository contains all the essential hardware-related documentation, files
    git clone https://github.com/your-repo/f1tenth-hardware.git
    ```
 2. Navigate to the relevant folder for the required information.
-3. Refer to the [Components_Instruction_manual/](Components_Instruction_manual/) folder for assembly and usage instructions.
-4. Use the [Documentations/](Documentations/) folder to verify hardware functionality.
+3. Refer to the [Components_Instruction_manual](Components_Instruction_manual/) folder for assembly and usage instructions.
+4. Use the [Documentations](Documentations/) folder to verify hardware functionality.
 
 ## Contribution
 If you have updates or improvements, please submit a pull request or open an issue.
