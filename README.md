@@ -5,10 +5,10 @@ This repository contains all the essential hardware-related documentation, files
 
 ## Repository Structure
 
-- **[F1TenthBOM.xlsx](F1TenthBOM)** - A detailed list of all components required for the hardware setup, including quantities, prices, and sources.
-- **[Components3DModulling/](Components3DModulling)** - Contains 3D CAD models of various parts used in the project, in formats such as STL, STEP, and Fusion 360.
-- **[Components_Instruction_manual/](Components_Instruction_manual)** - User guides, assembly instructions, and manufacturer-provided manuals for each component. Also includes technical specifications and datasheets for all components, including sensors, actuators, and controllers.
-- **[Documentations/](Documentations)** - Documentation related to hardware testing, including setup procedures, test results, and troubleshooting guides.
+- **[F1TenthBOM.xlsx](F1TenthBOM.xlsx)** - A detailed list of all components required for the hardware setup, including quantities, prices, and sources.
+- **[Components3DModulling](Components3DModulling/)** - Contains 3D CAD models of various parts used in the project, in formats such as STL, STEP, and Fusion 360.
+- **[Components_Instruction_manual](Components_Instruction_manual/)** - User guides, assembly instructions, and manufacturer-provided manuals for each component. Also includes technical specifications and datasheets for all components, including sensors, actuators, and controllers.
+- **[Documentations](Documentations/)** - Documentation related to hardware testing, including setup procedures, test results, and troubleshooting guides.
 
 ## Getting Started
 1. Clone the repository:
