@@ -5,9 +5,9 @@ This folder contains hardware testing procedures, results, and troubleshooting g
 
 ## Folder Structure
 
-- **LiDARTesting.pdf**: Testing report for LiDAR sensors.
-- **LiPo.Battery.Charger.Testing.Report.pdf**: Battery charger testing documentation.
-- **VESCTesting.pdf**: VESC controller testing report.
+- [**LiDARTesting.pdf**](LiDARTesting.pdf): Testing report for LiDAR sensors.
+- [**LiPo.Battery.Charger.Testing.Report.pdf**](LiPo.Battery.Charger.Testing.Report.pdf): Battery charger testing documentation.
+- [**VESCTesting.pdf**](VESCTesting.pdf): VESC controller testing report.
 
 ## Getting Started
 
@@ -16,7 +16,9 @@ This folder contains hardware testing procedures, results, and troubleshooting g
 
 ## Contributions
 
-Contributions are welcome! Please submit new test reports or improvements via pull request or issue.
+Contributions are welcome! By contributing, you agree that your submissions will be licensed under the terms of the MIT License. Please submit improvements, corrections, or new documentation via pull request or open an issue. All contributions should include clear documentation and follow standard open-source practices.
 
 ---
 For questions or support, refer to the files in this folder or contact the maintainers.
+Author : Mohammed Abdelazim (mohammed@azab.io)
+Maintainer : Yousuf Aboeldahab (yousuf.moh.dahab@outlook.com)

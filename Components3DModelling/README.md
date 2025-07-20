@@ -5,14 +5,14 @@ This folder contains all 3D CAD models and related files for the hardware compon
 
 ## Folder Structure
 
-- **PlatformDeck/**: Main deck assemblies, part files, and reference images (see PlatformDeck/README.md for details).
-- **AntennaMount/**: CAD files and gcode for antenna mounts.
-- **Battery Holder/**: 3D models for battery holders and mounting solutions.
-- **Jetson/**: CAD resources for Jetson modules and accessories.
-- **Lidar/**: 3D models and drawings for LiDAR mounting and integration.
-- **RearWing/**: Files for rear wing components and mounts.
-- **Traxxas Car/**: CAD files for Traxxas car integration and modifications.
-- **Vesc/**: Models and images for VESC controller mounting and wiring.
+- [**PlatformDeck/**](PlatformDeck/): Main deck assemblies, part files, and reference images (see PlatformDeck/README.md for details).
+- [**AntennaMount/**](AntennaMount/): CAD files and gcode for antenna mounts.
+- [**Battery Holder/**](Battery%20Holder/): 3D models for battery holders and mounting solutions.
+- [**Jetson/**](Jetson/): CAD resources for Jetson modules and accessories.
+- [**Lidar/**](Lidar/): 3D models and drawings for LiDAR mounting and integration.
+- [**RearWing/**](RearWing/): Files for rear wing components and mounts.
+- [**Traxxas Car/**](Traxxas%20Car/): CAD files for Traxxas car integration and modifications.
+- [**Vesc/**](Vesc/): Models and images for VESC controller mounting and wiring.
 - **Assm.png**: Reference image for overall assembly.
 
 ## Getting Started
@@ -23,7 +23,9 @@ This folder contains all 3D CAD models and related files for the hardware compon
 
 ## Contributions
 
-Contributions are welcome! If you have new models, improved designs, or updated documentation, please submit a pull request or open an issue.
+Contributions are welcome! By contributing, you agree that your submissions will be licensed under the terms of the MIT License. Please submit improvements, corrections, or new documentation via pull request or open an issue. All contributions should include clear documentation and follow standard open-source practices.
 
 ---
 For questions or support, refer to the files in this folder or contact the maintainers.
+Author : Mohammed Abdelazim (mohammed@azab.io)
+Maintainer : Yousuf Aboeldahab (yousuf.moh.dahab@outlook.com)

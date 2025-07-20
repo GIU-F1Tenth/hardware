@@ -27,7 +27,7 @@ Welcome to the F1TENTH Hardware Repository! This repository provides all the doc
 
 ## Contributions
 
-Contributions are welcome! If you have improvements, corrections, or new documentation, please submit a pull request or open an issue. Help us keep this resource up to date for the F1TENTH community.
+Contributions are welcome! By contributing, you agree that your submissions will be licensed under the terms of the MIT License. Please submit improvements, corrections, or new documentation via pull request or open an issue. All contributions should include clear documentation and follow standard open-source practices.
 
 ---
 For questions or support, refer to the relevant folders or contact the maintainers.
