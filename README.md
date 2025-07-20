@@ -6,11 +6,11 @@ Welcome to the F1TENTH Hardware Repository! This repository provides all the doc
 
 ## Repository Structure
 
-- **BOM/**: Bills of Materials for hardware builds, including part numbers, quantities, and suppliers.
-- **Components3DModelling/**: 3D CAD models (STL, STEP, etc.) for all hardware components.
-- **Components_Instruction_manual/**: Assembly guides, user manuals, datasheets, and technical specifications for sensors, actuators, controllers, and more.
-- **Documentations/**: Hardware testing procedures, results, and troubleshooting guides.
-- **Architecture/**: System architecture diagrams and platform overviews.
+- [**BOM/**](BOM/): Bills of Materials for hardware builds, including part numbers, quantities, and suppliers.
+- [**Components3DModelling/**](Components3DModelling/): 3D CAD models (STL, STEP, etc.) for all hardware components.
+- [**Components_Instruction_manual/**](Components_Instruction_manual/): Assembly guides, user manuals, datasheets, and technical specifications for sensors, actuators, controllers, and more.
+- [**Documentations/**](Documentations/): Hardware testing procedures, results, and troubleshooting guides.
+- [**Architecture/**](Architecture/): System architecture diagrams and platform overviews.
 
 ## Getting Started
 
@@ -19,11 +19,11 @@ Welcome to the F1TENTH Hardware Repository! This repository provides all the doc
    git clone https://github.com/your-repo/f1tenth-hardware.git
    ```
 2. **Explore the folders:**
-   - For part lists and sourcing, see `BOM/`.
-   - For 3D models, visit `Components3DModelling/`.
-   - For assembly and technical info, check `Components_Instruction_manual/`.
-   - For testing and troubleshooting, use `Documentations/`.
-   - For system diagrams, see `Architecture/`.
+   - For part lists and sourcing, see [BOM/](BOM/).
+   - For 3D models, visit [Components3DModelling/](Components3DModelling/).
+   - For assembly and technical info, check [Components_Instruction_manual/](Components_Instruction_manual/).
+   - For testing and troubleshooting, use [Documentations/](Documentations/).
+   - For system diagrams, see [Architecture/](Architecture/).
 
 ## Contributions
 
@@ -31,4 +31,5 @@ Contributions are welcome! If you have improvements, corrections, or new documen
 
 ---
 For questions or support, refer to the relevant folders or contact the maintainers.
-
+Author : Mohammed Abdelazim(mohammed@azab.io)
+Maintainer : Yousuf Aboeldahab(yousuf.moh.dahab@outlook.com)
