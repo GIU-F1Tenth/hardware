@@ -1,27 +1,35 @@
+
 # F1TENTH Hardware Repository
 
 ## Overview
-This repository contains all the essential hardware-related documentation, files, and resources for the F1TENTH project. It includes bills of materials, 3D models, datasheets, images, manuals, and testing documentation.
+Welcome to the F1TENTH Hardware Repository! This repository provides all the documentation, models, manuals, and resources needed to build, assemble, and test the F1TENTH hardware platform. Whether you're sourcing components, assembling parts, or troubleshooting, you'll find everything you need here.
 
 ## Repository Structure
 
-- **[F1TenthBOM.xlsx](F1TenthBOM.xlsx)** - A detailed list of all components required for the hardware setup, including quantities, prices, and sources.
-- **[Components3DModulling](Components3DModulling/)** - Contains 3D CAD models of various parts used in the project, in formats such as STL, STEP, and Fusion 360.
-- **[Components_Instruction_manual](Components_Instruction_manual/)** - User guides, assembly instructions, and manufacturer-provided manuals for each component. Also includes technical specifications and datasheets for all components, including sensors, actuators, and controllers.
-- **[Documentations](Documentations/)** - Documentation related to hardware testing, including setup procedures, test results, and troubleshooting guides.
+- [**BOM/**](BOM/): Bills of Materials for hardware builds, including part numbers, quantities, and suppliers.
+- [**Components3DModelling/**](Components3DModelling/): 3D CAD models (STL, STEP, etc.) for all hardware components.
+- [**Components_Instruction_manual/**](Components_Instruction_manual/): Assembly guides, user manuals, datasheets, and technical specifications for sensors, actuators, controllers, and more.
+- [**Documentations/**](Documentations/): Hardware testing procedures, results, and troubleshooting guides.
+- [**Architecture/**](Architecture/): System architecture diagrams and platform overviews.
 
 ## Getting Started
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-repo/f1tenth-hardware.git
    ```
-2. Navigate to the relevant folder for the required information.
-3. Refer to the [Components_Instruction_manual](Components_Instruction_manual/) folder for assembly and usage instructions.
-4. Use the [Documentations](Documentations/) folder to verify hardware functionality.
+2. **Explore the folders:**
+   - For part lists and sourcing, see [BOM/](BOM/).
+   - For 3D models, visit [Components3DModelling/](Components3DModelling/).
+   - For assembly and technical info, check [Components_Instruction_manual/](Components_Instruction_manual/).
+   - For testing and troubleshooting, use [Documentations/](Documentations/).
+   - For system diagrams, see [Architecture/](Architecture/).
 
-## Contribution
-If you have updates or improvements, please submit a pull request or open an issue.
+## Contributions
+
+Contributions are welcome! By contributing, you agree that your submissions will be licensed under the terms of the MIT License. Please submit improvements, corrections, or new documentation via pull request or open an issue. All contributions should include clear documentation and follow standard open-source practices.
 
 ---
-For further inquiries, feel free to reach out or check the respective folders for more information.
-
+For questions or support, refer to the relevant folders or contact the maintainers.
+Author : Mohammed Abdelazim(mohammed@azab.io)
+Maintainer : Yousuf Aboeldahab(yousuf.moh.dahab@outlook.com)
